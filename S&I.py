@@ -87,5 +87,4 @@ def run_segmentation(image_path):
     plt.show()
 
 # ---------- Try it ---------- 
-# بدل المسار ده بالمسار الصحيح للصورة اللي انت رفعتها
 run_segmentation('D:\FCI\Forth_Year\Second_Term\Computer Vision\Sections\SemanticVsInstance\image_test2.jpg')
